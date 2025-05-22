@@ -1,41 +1,29 @@
-Quiz App
-A simple web-based quiz application developed using HTML, CSS, and JavaScript.
+# 🧠 Quiz App
 
-Features
-Interactive multiple-choice questions.
+A simple and interactive web-based quiz application built using **HTML**, **CSS**, and **JavaScript**. This app lets users test their knowledge with multiple-choice questions and get instant feedback!
 
-Immediate feedback on answers.
+---
 
-Score tracking.
+## 🌟 Features
 
-Responsive design for various devices.
+✅ **Interactive Quiz Interface** – Users can answer one question at a time and receive immediate feedback.  
+✅ **Score Tracking** – Tracks correct answers and displays the final score.  
+✅ **Clean UI/UX** – Simple and user-friendly interface designed with pure HTML/CSS.  
+✅ **Responsive Design** – Works seamlessly across desktop and mobile devices.
 
-Technologies Used
-HTML
+---
 
-CSS
+## 💻 Technologies Used
 
-JavaScript
+- **HTML** – For building the structure of the app.  
+- **CSS** – For designing and styling the layout.  
+- **JavaScript** – For quiz logic, interactivity, and dynamic score calculation.
 
-Getting Started
-Clone the repository:
+---
 
-bash
-Copy
-Edit
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/DhanalaxmiSanapala2005/Quiz-app.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd Quiz-app
-Open index.html in your preferred web browser to start the quiz.
-
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-License
-This project is open-source and available under the MIT License.
-
-Feel free to customize this README further to match the specific functionalities and features of your quiz application.
