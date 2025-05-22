@@ -30,12 +30,4 @@ Feel free to fork this repo, improve the code or UI, and make a pull request. Al
 This project is open source and available under the MIT License.
 
 👩‍💻 Developed by:Sanapala Dhanalaxmi
-🌐 Visit my GitHub Profile
 
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/DhanalaxmiSanapala2005/Quiz-app.git
